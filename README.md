@@ -21,7 +21,7 @@ Send addresses once:<br>
 
 <img src="https://github.com/AlgoNetwork/Bee-Sender-v2/blob/main/screen.png" alt="erc20-tokens-multi-sender">
 
-Live ste:
+Live site:<br>
 https://algonetwork.github.io/Bee-Sender-v2/
 
 
