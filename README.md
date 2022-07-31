@@ -34,7 +34,7 @@ https://algonetwork.github.io/Bee-Sender-v2/
 Open js/config.js<br>
 Change the address to your own address,customize fee you will recieve.<br>
 
-## Attention
+## Tips
 ```
 After modifying the address, please refresh the website to visit after more than ten minutes, because the github cache or website may not have been changed, so the charging address is still the previous address.
 ```
