@@ -1,5 +1,5 @@
 # Bee-Sender-v2
-Bee Sender v2-ERC20 Token Airdrop Multi Sender.Packer your multi transfer in one transaction and save your cost.<br>
+Bee Sender v2-ERC20 Token Airdrop Multi Sender.Packer your multi transfer in one transaction and save your cost. support csv file.<br>
 Current support Blockchain networks:<br>
 Ethereum,Binance,Avalanche,Huobi,Fantom,Cronos,Polygon,Phoenix and Ropsten testnetwork.<br><br>
 <img src="https://github.com/AlgoNetwork/Bee-Sender-v2/blob/main/img/1.png" width="25" height="25" alt="eth"> 
