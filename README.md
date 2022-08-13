@@ -30,20 +30,24 @@ https://algonetwork.github.io/Bee-Sender-v2/
 
 
 
+
 # Need Earn cryptocurrency?
-Open js/config.js<br>
-Change the address to your own address,customize fee you will recieve.<br>
+1.Download this project,put to any web server.<br>
+2.Open js/config.js<br>
+3.Change the address to your own address,customize fee you will recieve.
+then start earn cryptocurrency!<br>
 
 ## Tips
 ```
 After modifying the address, please refresh the website to visit after more than ten minutes, because the github cache or website may not have been changed, so the charging address is still the previous address.
 ```
-# Deploy to your github page
+
+### You can also Deploy to your github page
 https://github.com/AlgoNetwork/Page<br>
 
 or you can download source ,and put to any web server.then start earn cryptocurrency!<br>
 
-# You can deployed this source to any server and change the brand name without my approve.
+### You can deployed this source to any server and change the brand name without my approve.
 
 <br>
 
