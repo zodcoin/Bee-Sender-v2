@@ -9,7 +9,7 @@ Ethereum,Binance,Avalanche,Huobi,Fantom,Cronos,Polygon,Phoenix and Ropsten testn
 <img src="https://github.com/AlgoNetwork/Bee-Sender-v2/blob/main/img/43114.png" width="25" height="25" alt="matic"> 
 <img src="https://github.com/AlgoNetwork/Bee-Sender-v2/blob/main/img/25.png" width="25" height="25" alt="cronos"> 
 <img src="https://github.com/AlgoNetwork/Bee-Sender-v2/blob/main/img/13381.png" width="25" height="25" alt="Phoenix"> 
-
+<img src="https://github.com/AlgoNetwork/Bee-Sender-v2/blob/main/img/534.png" width="25" height="25" alt="Candle"> 
 <br>
 
 V2 add features:<br>
